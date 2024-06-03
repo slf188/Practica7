@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IntegracionServicios202401\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F174DCD-8FAE-4349-9231-EFB17CD74889}|MidREST\\MidREST.csproj|d:\\integracionservicios202401\\middleware\\midrest\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F174DCD-8FAE-4349-9231-EFB17CD74889}|MidREST\\MidREST.csproj|solutionrelative:midrest\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456934AA-6554-4B35-ABE6-98D073BA5AC6}|Logica\\Logica.csproj|d:\\integracionservicios202401\\middleware\\logica\\middlewareproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456934AA-6554-4B35-ABE6-98D073BA5AC6}|Logica\\Logica.csproj|solutionrelative:logica\\middlewareproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|d:\\integracionservicios202401\\middleware\\datos\\entidades\\productostiendamil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|solutionrelative:datos\\entidades\\productostiendamil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|d:\\integracionservicios202401\\middleware\\datos\\entidades\\productossuperx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|solutionrelative:datos\\entidades\\productossuperx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|d:\\integracionservicios202401\\middleware\\datos\\dto\\dtoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|solutionrelative:datos\\dto\\dtoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711862F-91B5-4ABD-833B-8CDE20C3D671}|MidSOAP\\MidSOAP.csproj|d:\\integracionservicios202401\\middleware\\midsoap\\ws-productos-soap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711862F-91B5-4ABD-833B-8CDE20C3D671}|MidSOAP\\MidSOAP.csproj|solutionrelative:midsoap\\ws-productos-soap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\IntegracionServicios202401\\Middleware\\MidREST\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "MidREST\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\IntegracionServicios202401\\Middleware\\MidREST\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "MidREST\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:30:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosTiendaMil.cs",
+              "DocumentMoniker": "D:\\IntegracionServicios202401\\Middleware\\Datos\\Entidades\\ProductosTiendaMil.cs",
+              "RelativeDocumentMoniker": "Datos\\Entidades\\ProductosTiendaMil.cs",
+              "ToolTip": "D:\\IntegracionServicios202401\\Middleware\\Datos\\Entidades\\ProductosTiendaMil.cs",
+              "RelativeToolTip": "Datos\\Entidades\\ProductosTiendaMil.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:11:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosSuperX.cs",
+              "DocumentMoniker": "D:\\IntegracionServicios202401\\Middleware\\Datos\\Entidades\\ProductosSuperX.cs",
+              "RelativeDocumentMoniker": "Datos\\Entidades\\ProductosSuperX.cs",
+              "ToolTip": "D:\\IntegracionServicios202401\\Middleware\\Datos\\Entidades\\ProductosSuperX.cs",
+              "RelativeToolTip": "Datos\\Entidades\\ProductosSuperX.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:10:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WS-Productos-SOAP.asmx.cs",
+              "DocumentMoniker": "D:\\IntegracionServicios202401\\Middleware\\MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "RelativeDocumentMoniker": "MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "ToolTip": "D:\\IntegracionServicios202401\\Middleware\\MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "RelativeToolTip": "MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:00:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTOProducto.cs",
+              "DocumentMoniker": "D:\\IntegracionServicios202401\\Middleware\\Datos\\DTO\\DTOProducto.cs",
+              "RelativeDocumentMoniker": "Datos\\DTO\\DTOProducto.cs",
+              "ToolTip": "D:\\IntegracionServicios202401\\Middleware\\Datos\\DTO\\DTOProducto.cs",
+              "RelativeToolTip": "Datos\\DTO\\DTOProducto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:54:47.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiddlewareProductos.cs",
+              "DocumentMoniker": "D:\\IntegracionServicios202401\\Middleware\\Logica\\MiddlewareProductos.cs",
+              "RelativeDocumentMoniker": "Logica\\MiddlewareProductos.cs",
+              "ToolTip": "D:\\IntegracionServicios202401\\Middleware\\Logica\\MiddlewareProductos.cs",
+              "RelativeToolTip": "Logica\\MiddlewareProductos.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwHQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:27:56.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

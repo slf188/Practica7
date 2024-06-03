@@ -1,0 +1,12 @@
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Logica.dll.config
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Logica.dll
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Logica.pdb
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Datos.dll
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Newtonsoft.Json.dll
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Datos.pdb
+D:\IntegracionServicios202401\Middleware\Logica\bin\Debug\Newtonsoft.Json.xml
+D:\IntegracionServicios202401\Middleware\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\IntegracionServicios202401\Middleware\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\IntegracionServicios202401\Middleware\Logica\obj\Debug\Logica.csproj.Up2Date
+D:\IntegracionServicios202401\Middleware\Logica\obj\Debug\Logica.dll
+D:\IntegracionServicios202401\Middleware\Logica\obj\Debug\Logica.pdb

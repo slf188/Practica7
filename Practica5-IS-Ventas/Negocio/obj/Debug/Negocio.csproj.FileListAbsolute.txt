@@ -1,0 +1,16 @@
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\Negocio.dll
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\Negocio.pdb
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\AccesoDatos.dll
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\Datos.dll
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\EntityFramework.dll
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\AccesoDatos.pdb
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\AccesoDatos.dll.config
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\Datos.pdb
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\EntityFramework.xml
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\obj\Debug\Negocio.dll
+D:\App-SI-2024\Practica5-IS-Ventas\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,14 @@
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\Datos.dll
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\Datos.pdb
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\AccesoDatos.dll
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\EntityFramework.dll
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\AccesoDatos.pdb
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\AccesoDatos.dll.config
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\EntityFramework.xml
+D:\IntegracionServicios202401\Ventas2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\IntegracionServicios202401\Ventas2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\IntegracionServicios202401\Ventas2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\IntegracionServicios202401\Ventas2\Datos\obj\Debug\Datos.csproj.Up2Date
+D:\IntegracionServicios202401\Ventas2\Datos\obj\Debug\Datos.dll
+D:\IntegracionServicios202401\Ventas2\Datos\obj\Debug\Datos.pdb

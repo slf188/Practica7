@@ -1,0 +1,9 @@
+D:\IntegracionServicios202401\Middleware\Datos\bin\Debug\Datos.dll
+D:\IntegracionServicios202401\Middleware\Datos\bin\Debug\Datos.pdb
+D:\IntegracionServicios202401\Middleware\Datos\bin\Debug\Newtonsoft.Json.dll
+D:\IntegracionServicios202401\Middleware\Datos\bin\Debug\Newtonsoft.Json.xml
+D:\IntegracionServicios202401\Middleware\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\IntegracionServicios202401\Middleware\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\IntegracionServicios202401\Middleware\Datos\obj\Debug\Datos.csproj.Up2Date
+D:\IntegracionServicios202401\Middleware\Datos\obj\Debug\Datos.dll
+D:\IntegracionServicios202401\Middleware\Datos\obj\Debug\Datos.pdb
